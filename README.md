@@ -3,17 +3,17 @@ This challenge uses the K-Means clustering algorithm to group cryptocurrencies b
 
 The dataset used in this analysis is taken from the crypto_market_data.csv file, which contains the following features:
 
-coin_id: the name of the cryptocurrency
-price_change_percentage_24h: the percentage change in the price of the cryptocurrency over the past 24 hours
-price_change_percentage_7d: the percentage change in the price of the cryptocurrency over the past 7 days
-price_change_percentage_14d: the percentage change in the price of the cryptocurrency over the past 14 days
-price_change_percentage_30d: the percentage change in the price of the cryptocurrency over the past 30 days
-price_change_percentage_60d: the percentage change in the price of the cryptocurrency over the past 60 days
-price_change_percentage_200d: the percentage change in the price of the cryptocurrency over the past 200 days
-price_change_percentage_1y: the percentage change in the price of the cryptocurrency over the past year
+1. coin_id: the name of the cryptocurrency
+2. price_change_percentage_24h: the percentage change in the price of the cryptocurrency over the past 24 hours
+3. price_change_percentage_7d: the percentage change in the price of the cryptocurrency over the past 7 days
+4. price_change_percentage_14d: the percentage change in the price of the cryptocurrency over the past 14 days
+5. price_change_percentage_30d: the percentage change in the price of the cryptocurrency over the past 30 days
+6. price_change_percentage_60d: the percentage change in the price of the cryptocurrency over the past 60 days
+7. price_change_percentage_200d: the percentage change in the price of the cryptocurrency over the past 200 days
+8. price_change_percentage_1y: the percentage change in the price of the cryptocurrency over the past year
 
 ## Technologies Used
 This project uses:
-pandas
-hvplot
-scikit-learn
+1. Pandas
+2. hvplot
+3. scikit-learn
